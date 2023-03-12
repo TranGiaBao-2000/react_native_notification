@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "808478799178",
+    "project_id": "royal-healthcare-8a84d",
+    "storage_bucket": "royal-healthcare-8a84d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808478799178:android:7ec7b311d280b3b937fdb3",
+        "android_client_info": {
+          "package_name": "com.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808478799178-i5g9b42tbjd5j7saaeer5v87g53rkvcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyfufkZwQg064Icy4YU0TkmyyTb7N0iYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808478799178-i5g9b42tbjd5j7saaeer5v87g53rkvcl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808478799178-h2a3clb090udd255jhp84hvu9m26vf7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "notification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

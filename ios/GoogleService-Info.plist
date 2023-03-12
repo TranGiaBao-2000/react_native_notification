@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>808478799178-h2a3clb090udd255jhp84hvu9m26vf7j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.808478799178-h2a3clb090udd255jhp84hvu9m26vf7j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBuULIGcwx0ax9azKdEJKCxiZ0JL59MbD8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>808478799178</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>notification</string>
+	<key>PROJECT_ID</key>
+	<string>royal-healthcare-8a84d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>royal-healthcare-8a84d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:808478799178:ios:58aa6c86314b77cb37fdb3</string>
+</dict>
+</plist>

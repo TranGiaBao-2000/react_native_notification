@@ -1,0 +1,20 @@
+BUILD SUCCESSFUL in 3s
+72 actionable tasks: 2 executed, 70 up-to-date
+info Connecting to the development server...
+info Starting the app...
+Error: spawnSync adb ENOENT
+    at Object.spawnSync (node:internal/child_process:1117:20)
+    at Object.spawnSync (node:child_process:871:24)
+    at module.exports.sync 
+(/Users/giabao/Desktop/WorkingSpace/test/native/notification/node_modules/@react-native-community/cli-platform-android/node_modules/execa/index.js:334:30)
+    at tryLaunchAppOnDevice 
+(/Users/giabao/Desktop/WorkingSpace/test/native/notification/node_modules/@react-native-community/cli-platform-android/build/commands/runAndroid/tryLaunchAppOnDevice.js:46:22)
+    at 
+/Users/giabao/Desktop/WorkingSpace/test/native/notification/node_modules/@react-native-community/cli-platform-android/build/commands/runAndroid/runOnAllDevices.js:95:39
+    at Array.forEach (<anonymous>)
+    at runOnAllDevices 
+(/Users/giabao/Desktop/WorkingSpace/test/native/notification/node_modules/@react-native-community/cli-platform-android/build/commands/runAndroid/runOnAllDevices.js:90:48)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Command.handleAction 
+(/Users/giabao/Desktop/WorkingSpace/test/native/notification/node_modules/@react-native-community/cli/build/index.js:108:9)
+info Run CLI with --verbose flag for more details.
